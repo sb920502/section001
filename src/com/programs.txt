@@ -1,0 +1,1 @@
+program001 --> Singleton - eager initialization

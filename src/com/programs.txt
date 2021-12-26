@@ -1,2 +1,4 @@
 program001 --> Singleton - eager initialization
 program002 --> 1512. Number of Good Pairs
+program003 --> 771. Jewels and Stones
+program004 --> 1365. How Many Numbers Are Smaller Than the Current Number
